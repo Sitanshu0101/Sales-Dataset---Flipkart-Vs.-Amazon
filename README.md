@@ -30,14 +30,14 @@ Objectives Marked-:
 
 6.) Plotting rating graph 
 
-7.) Filteration used with respect to Gender, Rating and Platform 
+7.) Filtration used with respect to Gender, Rating, and Platform 
 
 
 Projects -: 
 
 1.) Google Sheets - https://docs.google.com/spreadsheets/d/1Ccp3IHRJfwjQ4bNuzyYihMp2o7hi4Fy06Pmx5JW6Btg/edit?usp=sharing
 
-2.) Python (Google collab) - https://colab.research.google.com/drive/1J3yxWQdXM3HEb57PoAFPn4DIpQtpMu0h?usp=sharing
+2.) Python (Google colab) - https://colab.research.google.com/drive/1J3yxWQdXM3HEb57PoAFPn4DIpQtpMu0h?usp=sharing
 
 3.) Power BI PDF File - https://drive.google.com/file/d/1NJZr8Ng6ZhPXRmeglku_zhl7Xp97EB1o/view?usp=sharing
 
